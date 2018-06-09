@@ -1,6 +1,6 @@
 {
     "name": "stratton85/aaa",
     "require": {
-		"monolog/monolog": "1.x-dev"
+		"monolog/monolog": "~1.17.0"
     }
 }
