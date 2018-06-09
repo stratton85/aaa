@@ -1,0 +1,6 @@
+{
+    "name": "stratton85/aaa",
+    "require": {
+		"monolog/monolog": "dev-1.x"
+    }
+}
